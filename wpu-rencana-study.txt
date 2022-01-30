@@ -5,6 +5,7 @@ Rencana Belajar dari Web Programing Unpas
   *Framework
     ^ Vue
     ^ React
+    ^ Anggular
   - Struktur Data Dasar
   -PHP Frameworks
     ^Laravel
